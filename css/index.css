@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+header{border:1px solid #FFF; width:90%; height:50px; background-color:green; margin-left:5%;font-size:30px;color:black}
+nav{border:1px solid  #FFF; width:90%; height:100px;margin-left:5%;font-size:30px;color:black;
+    line-height:75px;background-color:#FFF;}
+.zhong{width:90%; height:500px; margin-left:5%; margin-top:10px;}
+.m0   {border:2px solid  #FFF; width:12%; height:450px; margin-top:5px;margin-left:1%; float:left;}
+.m0 img{width:100%;height:450px;}
+.m1   {border:2px solid #FFF; width:250px; height:130px; float:left;margin-left:1%; margin-top:10px;text-align:center
+       ;background-color:#FFF;}
+.m2 {border:2px solid #FFF;width:100%;height:110px;background-color:#FFF;}
+.m2 img{width:100px;height:110px;}
+.xia{border:2px solid  #FFF; width:90%; height:200px;margin-left:5%;background-color:#FFF;margin-top:5px;}
+.m3{ width:63%; height:450px; float:left;margin-left:1%; margin-top:5px;text-align:center;}
+.m4{border:2px solid #FFF; width:22%; height:450px; float:left; margin-top:5px; background-color:#FFF;text-align:center}
+.m5{background-color:lightgrey;}
+.m6{border:1px solid green;width:9.3%; height:100%;float:left}
+.m6 img{width:100%;height:100%;float:left}
+.m7{ border:1px solid green;width:30%; height:100px;float:right;text-align:center;}
+.m7 img{width:100%;height:100px;float:left}
+.m8{border:1px solid green;width:20%; height:100%;float:left;}
+.m8 img{width:100%; height:200px;float:enter;}
+.m9{border:1px solid green;width:240px; height:100%;float:left;}
+.m10{border:1px solid green;width:19%; height:100%;float:left;}
+.m10 img{width:99%; height:200px;float:left;}
+.m11{width:130px; height:60px;float:right;text-align:lightgrey;text-align:left;}
+
+
